@@ -1,0 +1,8 @@
+@echo githubadd방법
+git config --global user.name hitgity
+git config --global user.email tkdahr3355@gmail.com
+git clone https://github.com/hitgity/AI-code.git
+cd ./desktop/github/AI-code
+git add ()
+git commit -m "AI-code"
+git push
