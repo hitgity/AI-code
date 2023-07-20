@@ -1,0 +1,3 @@
+include <studio>
+
+printf("studio");
